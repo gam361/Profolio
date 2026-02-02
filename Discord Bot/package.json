@@ -1,0 +1,27 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "File that keeps track of dependencies used in the Discord Bot project.",
+  "homepage": "https://github.com/gam361/QA-and-Software-Projects#readme",
+  "bugs": {
+    "url": "https://github.com/gam361/QA-and-Software-Projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gam361/QA-and-Software-Projects.git"
+  },
+  "license": "ISC",
+  "author": "Charles Mugyema",
+  "main": "discord.js",
+  "scripts": {
+    "test": "npm init -y"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "ytsr": "^3.8.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2"
+  }
+}
