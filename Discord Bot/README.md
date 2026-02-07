@@ -1,1 +1,1 @@
-# QA-and-Software-Projects
+This is a simple discord bot named stealthy. 
